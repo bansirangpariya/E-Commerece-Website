@@ -1,23 +1,7 @@
-/*-----------------------------------*\
-  #style.css
-\*-----------------------------------*/
-
-/**
- * copyright 2022 @codewithsadee 
- */
-
-
-
-
-
-/*-----------------------------------*\
-  #CUSTOM PROPERTY
-\*-----------------------------------*/
-
 :root {
 
-  /**
-   * colors
+  /*
+    colors
    */
 
   --spanish-gray: hsl(0, 0%, 60%);
@@ -32,8 +16,8 @@
   --white: hsl(0, 100%, 100%);
   --onyx: hsl(0, 0%, 27%);
 
-  /**
-   * typography
+  /*
+    typography
    */
 
   --fs-1: 1.563rem;
@@ -54,14 +38,14 @@
   --weight-600: 600;
   --weight-700: 700;
 
-  /**
+  /*
    * border-radius
    */
 
   --border-radius-md: 10px;
   --border-radius-sm: 5px;
 
-  /**
+  /*
    * transition 
    */
 
@@ -178,8 +162,8 @@ body::-webkit-scrollbar-thumb:hover { background: hsl(0, 0%, 70%); }
   #MAIN
 \*-----------------------------------*/
 
-/**
- * overlay 
+/*
+  overlay 
  */
 
 .overlay {
